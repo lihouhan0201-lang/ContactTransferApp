@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">通话记录生成工具</string>
+
+    <!-- 联系人生成相关 -->
+    <string name="generate_from_contacts">生成通话记录</string>
+    <string name="generate_count">生成数量</string>
+    <string name="time_range">时间范围</string>
+
+    <!-- 时间范围选项 -->
+    <string name="time_range_1_month">最近1个月</string>
+    <string name="time_range_2_months">最近2个月</string>
+    <string name="time_range_3_months">最近3个月</string>
+    <string name="time_range_6_months">最近6个月</string>
+    <string name="time_range_9_months">最近9个月</string>
+    <string name="time_range_12_months">最近12个月</string>
+    <string name="time_range_1_year">最近1年</string>
+    <string name="time_range_2_years">最近2年</string>
+    <string name="time_range_3_years">最近3年</string>
+
+    <!-- 日志和标题 -->
+    <string name="app_title">通话记录生成工具</string>
+    <string name="operation_log">操作日志:</string>
+    <string name="log_placeholder">欢迎使用通话记录生成工具！\n\n应用启动后将自动申请权限。</string>
+</resources>
